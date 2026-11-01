@@ -1,1 +1,2 @@
 python is a programming language.
+machine learning is use for predective analytics.
